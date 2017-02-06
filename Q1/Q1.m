@@ -1,3 +1,4 @@
+% complet code https://github.com/yz5548/DIProject/tree/master/Q1
 clear;clc;close all
 % the expected group number f after each toss nth f(n)
 % f(n+1)=(0.6*0.6+0.4*0.4)+(0.6*0.4*2)*(f(n)+1)
